@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi, I'm Bhanu!
+ I'm Bhanu!
 🚀 I'm a *Full Stack Python Developer Trainee* learning to build web applications using modern technologies.
 
 ### 🛠 Languages & Tools I Use:
