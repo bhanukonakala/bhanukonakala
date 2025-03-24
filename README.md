@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🔗 Connect with Me:
-[![linkdin](https://in.linkedin.com/in/bhanu-konakala-168a14355?trk=profile-badge)
+[![linkdin](https://www.linkedin.com/in/bhanu-konakala-168a14355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanukonakala)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanukonakala45@gmail.com)
 
