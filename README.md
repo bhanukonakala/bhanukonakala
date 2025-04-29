@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhanukonakala&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhanukonakala&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukonakala&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhanukonakala&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 -->
  I'm Bhanu!
 🚀 I'm a *Full Stack Python Developer Trainee* learning to build web applications using modern technologies.
